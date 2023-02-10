@@ -1,4 +1,4 @@
-# TwicussWebPage
+# WebPage
 
 クライアントにダウンロードさせるアプリ系はdownloadにまとめる
 
